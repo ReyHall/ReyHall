@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👯 **Estou procurando colaborar em:** `Front End`
-- 🤔 **Estou procurando ajuda com:** `React e Next.js`
+- 🤔 **Estou procurando ajuda com:** `React`
 - 📫 **Como entrar em contato comigo:** `Telefone: +55 (91) 98934-5058 ou Email: reyh4ll@gmail.com`
 - 😄 **Pronomes:** `ele/dele`
 - ⚡ **Curiosidade:** `Estou no ramo da programação faz 3 anos`
