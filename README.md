@@ -4,12 +4,12 @@
 
 - 👯 **Estou procurando colaborar em:** `Desenvolvimento Front End`
 - 🤔 **Estou procurando ajuda com:** `React`
-- 📫 **Como entrar em contato comigo:** `Telefone: +55 (91) 98934-5058 ou Email: reyh4ll@gmail.com`
+- 📫 **Como entrar em contato comigo:** `Telefone: +55(91)98934-5058 ou Email: reyh4ll@gmail.com`
 - 😄 **Pronomes:** `ele/dele`
 - ⚡ **Curiosidade:** `Estou no ramo da programação faz 3 anos`
 - 🔥 **Apelidos:** `Hall`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyHall&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyHall&show_icons=true&theme=transparent&locale=pt-br)
 
 ## Estou aprendendo
 
@@ -34,6 +34,10 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width=40 height=40/>
       <br>jQuery
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=40 height=40/>
+      <br>TypeScript
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
@@ -72,6 +76,10 @@
   <tr align="center">
     <td>jQuery</td>
     <td>85%</td>
+  </tr>
+  <tr align="center">
+    <td>TypeScript</td>
+    <td>30%</td>
   </tr>
   <tr align="center">
     <td>React</td>
