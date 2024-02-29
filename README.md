@@ -32,16 +32,20 @@
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width=40 height=40/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width=40 height=40 alt="jQuery"/>
       <br>jQuery
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=40 height=40/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=40 height=40 alt="Typescript"/>
       <br>TypeScript
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
       <br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+      <br>Vue
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
@@ -88,6 +92,10 @@
   <tr align="center">
     <td>React</td>
     <td>50%</td>
+  </tr>
+  <tr align="center">
+    <td>Vue</td>
+    <td>70%</td>
   </tr>
   <tr align="center">
     <td>Git</td>
