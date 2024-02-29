@@ -47,6 +47,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
       <br>Git
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      <br>Tailwindcss
+    </td>
   </tr>
 </table>
 
@@ -88,6 +92,10 @@
   <tr align="center">
     <td>Git</td>
     <td>50%</td>
+  </tr>
+  <tr align="center">
+    <td>Tailwindcss</td>
+    <td>70%</td>
   </tr>
 </table>
 
