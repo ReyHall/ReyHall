@@ -27,5 +27,6 @@
 ### Studying is moment:
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=openjdk&labelColor=black)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=for-the-badge&logo=SpringBoot&labelColor=black)&nbsp;
+![Php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php&labelColor=black)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=651FFF&height=120&section=footer"/>
